@@ -94,7 +94,7 @@ nav img{
 nav .fa{
     display: none;
 }
-@media(max-width: 700px)
+@media(max-width: 500px)
 {
     .bests h1{
         font-size: 20px;
@@ -169,7 +169,7 @@ nav .fa{
 .course-col:hover{
     box-shadow: 10px 10px 10px 10px rgb(131, 122, 122);
 }
-@media(max-width: 700px){
+@media(max-width: 500px){
     .row{
     flex-direction: column;
 }
@@ -283,7 +283,7 @@ testimonials-col p{
     font-size: 30px;
     text-align: left;
 }
-@media(max-width: 700px){
+@media(max-width: 500px){
     .testimonials h1{
         font-size: 25px;
     }
@@ -329,7 +329,7 @@ testimonials-col p{
      color: white;
      background-color: black;             
  }
- @media(mac-width: 700){
+ @media(mac-width: 500px){
      .cta h1{
          font-size: 10px;
      }
