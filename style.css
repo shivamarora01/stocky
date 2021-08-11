@@ -26,7 +26,7 @@ nav img{
 .nav-links{
     flex: 1;
     text-align: right;
-    padding:  0px 10px;
+    padding:  0px 0px;
     flex: 1;
 }
 .nav-links ul li{
@@ -109,9 +109,9 @@ nav .fa{
         position: absolute;
         background: rgb(47, 109, 223);
         height: 100vh;
-        width: 200px;
+        width: 0px;
         top: 0;
-        right: -200px;
+        right: 0px;
         text-align: left;
         z-index: 2;
         transition: 1s;
