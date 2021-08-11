@@ -18,8 +18,10 @@ nav{
     padding: 2% 6%;
     justify-content: space-between;
     align-items: center;
-    height: 100px;
     font-size: 30px;
+}
+nav {
+    height: 100px;
 }
 nav img{
     width: 150px;
