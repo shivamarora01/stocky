@@ -177,6 +177,10 @@ nav .fa{
     .row{
     flex-direction: column;
 }
+    .stocks-buy img{
+    width: 50%;
+    display: block;
+}
 }
 .stocks{
     width: 80%;
